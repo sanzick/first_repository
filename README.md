@@ -1,2 +1,3 @@
 # first_repository
-training
+
+Bench scientist learning bioinformatics.
